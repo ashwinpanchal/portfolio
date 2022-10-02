@@ -306,6 +306,9 @@ hr {
         width: 20%;
         margin-left: 40%;
     }
+    .container-fluid{
+        padding: 2% 5%;
+    }
 }
 
 .man-head {
