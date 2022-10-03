@@ -309,6 +309,13 @@ hr {
     .container-fluid{
         padding: 2% 5%;
     }
+    .skill-text{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .main-head{
+        font-size: 4rem;
+    }
 }
 
 .man-head {
