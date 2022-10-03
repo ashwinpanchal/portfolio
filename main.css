@@ -114,15 +114,13 @@ h1{
     font-size: 1.2rem;
 }
 
-.fa-instagram{
-    background-image: linear-gradient(to bottom right, #405DE6,#5B51D8,#833AB4,#C13584,#E1306C,#FD1D1D,#F56040,#F77737,#FCAF45,#FFDC80);
-    color: #fff;
-    padding: 0 2px;
-    border-radius: 0.7rem;
+.fa-square-instagram{
+    color: #E1306C;
+    /* background-color: linear-gradient(to bottom right, #405DE6,#5B51D8,#833AB4,#C13584,#E1306C,#FD1D1D,#F56040,#F77737,#FCAF45,#FFDC80); */
 }
 
-.fa-instagram:hover{
-    color: #FFECEF;
+.fa-square-instagram:hover{
+    color: #C13584;
 }
 
 .text1{
